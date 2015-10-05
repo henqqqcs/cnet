@@ -6,6 +6,7 @@ public class Aplicacao {
 
 		//pegar uma instancia 
 		Configuracao conf1 = Configuracao.getInstancia();
+		//teste
 		
 		//pegar uma instancia 
 		Configuracao conf2 = Configuracao.getInstancia();
